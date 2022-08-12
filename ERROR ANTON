@@ -1,9 +1,3 @@
-C:\Users\e175060\OneDrive - Applied Materials\AUTO_ANIMATION V4 MULTI>python xlsx_to_json.py
-Traceback (most recent call last):
-  File "C:\Users\e175060\OneDrive - Applied Materials\AUTO_ANIMATION V4 MULTI\xlsx_to_json.py", line 48, in <module>
-    if step_id == "None":
-NameError: name 'step_id' is not defined
-PS C:\Users\e175060\OneDrive - Applied Materials\AUTO_ANIMATION V4 MULTI> ./Run_Xlsx.cmd
 
 C:\Users\e175060\OneDrive - Applied Materials\AUTO_ANIMATION V4 MULTI>python xlsx_to_json.py
 Blender 3.2.1 (hash a2d59b2dac9e built 2022-07-06 07:45:50)
