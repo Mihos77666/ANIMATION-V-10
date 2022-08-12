@@ -43,7 +43,7 @@ for i,row in enumerate(xlsx_data[1:]):
         if i==list_len:
             last_line = True           
     elif not empty_line:
-         if step_id == "None":              
+         if step_id != "None":              
             json_data = json.dumps(json_out)
             step_path = task_name+'_STEP_'+step_id+'.json'
             file_save_path = os.path.join(json_dir,step_path)
