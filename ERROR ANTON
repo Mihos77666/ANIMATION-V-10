@@ -1,0 +1,374 @@
+C:\Users\e175060\OneDrive - Applied Materials\AUTO_ANIMATION V4 MULTI>python xlsx_to_json.py
+Traceback (most recent call last):
+  File "C:\Users\e175060\OneDrive - Applied Materials\AUTO_ANIMATION V4 MULTI\xlsx_to_json.py", line 48, in <module>
+    if step_id == "None":
+NameError: name 'step_id' is not defined
+PS C:\Users\e175060\OneDrive - Applied Materials\AUTO_ANIMATION V4 MULTI> ./Run_Xlsx.cmd
+
+C:\Users\e175060\OneDrive - Applied Materials\AUTO_ANIMATION V4 MULTI>python xlsx_to_json.py
+Blender 3.2.1 (hash a2d59b2dac9e built 2022-07-06 07:45:50)
+Read prefs: C:\Users\e175060\AppData\Roaming\Blender Foundation\Blender\3.2\config\userpref.blend
+Data are loaded, start creating Blender stuff
+glTF import finished in 0.01s
+Data are loaded, start creating Blender stuff
+glTF import finished in 0.01s
+Data are loaded, start creating Blender stuff
+glTF import finished in 0.01s
+Error: Python: Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+  File "C:\Users\e175060\OneDrive - Applied Materials\AUTO_ANIMATION V4 MULTI\blender_process.py", line 285, in <module>    prime_position = prime_object.location
+NameError: name 'prime_object' is not defined
+Error: File format is not supported in file 'C:\Users\e175060\SHARED_JOSEPH_BROKER\PPC_GUIDES\PPC USE CASES\ROTOR_OMS\JSON\OMS_A0561620_STEP.json'
+
+Blender quit
+Blender 3.2.1 (hash a2d59b2dac9e built 2022-07-06 07:45:50)
+Read prefs: C:\Users\e175060\AppData\Roaming\Blender Foundation\Blender\3.2\config\userpref.blend
+'C:\Program Files\Blender Foundation\Blender 3.2\3.2\python\lib\site-packages\extern_draco.dll' exists, draco mesh compression is available
+17:04:05 | INFO: Starting glTF 2.0 export
+17:04:05 | INFO: Finished glTF 2.0 export in 0.0009505748748779297 s
+
+Error: File format is not supported in file 'C:\Users\e175060\SHARED_JOSEPH_BROKER\PPC_GUIDES\PPC USE CASES\ROTOR_OMS\JSON\OMS_A0561620_STEP_.json'
+
+Blender quit
+Blender 3.2.1 (hash a2d59b2dac9e built 2022-07-06 07:45:50)
+Read prefs: C:\Users\e175060\AppData\Roaming\Blender Foundation\Blender\3.2\config\userpref.blend
+Data are loaded, start creating Blender stuff
+glTF import finished in 0.01s
+<bpy_struct, Object("A0425436") at 0x0000014C0A4CEB08>
+Data are loaded, start creating Blender stuff
+glTF import finished in 0.00s
+<bpy_struct, Object("3690-03267") at 0x0000014C0A4CE408>
+Data are loaded, start creating Blender stuff
+glTF import finished in 0.02s
+<bpy_struct, Object("A0552604") at 0x0000014C0A4CDD08>
+'C:\Program Files\Blender Foundation\Blender 3.2\3.2\python\lib\site-packages\extern_draco.dll' exists, draco mesh compression is available
+17:04:07 | INFO: Starting glTF 2.0 export
+17:04:07 | INFO: Extracting primitive: Label A0425436
+17:04:07 | INFO: Primitives created: 1
+17:04:07 | INFO: Extracting primitive: A0425436
+17:04:07 | INFO: Primitives created: 1
+17:04:07 | INFO: Extracting primitive: Label 3690-03267
+17:04:07 | INFO: Primitives created: 1
+17:04:07 | INFO: Extracting primitive: 3690-03267
+17:04:07 | INFO: Primitives created: 1
+17:04:07 | INFO: Extracting primitive: Label A0552604
+17:04:07 | INFO: Primitives created: 1
+17:04:07 | INFO: Extracting primitive: A0552604
+17:04:07 | INFO: Primitives created: 1
+17:04:07 | INFO: Finished glTF 2.0 export in 0.1512908935546875 s
+
+'C:\Program Files\Blender Foundation\Blender 3.2\3.2\python\lib\site-packages\extern_draco.dll' exists, draco mesh compression is available
+17:04:07 | INFO: Starting glTF 2.0 export
+17:04:07 | INFO: Extracting primitive: Label A0425436
+17:04:07 | INFO: Primitives created: 1
+17:04:07 | INFO: Extracting primitive: A0425436
+17:04:07 | INFO: Primitives created: 1
+17:04:07 | INFO: Finished glTF 2.0 export in 0.06965470314025879 s
+
+'C:\Program Files\Blender Foundation\Blender 3.2\3.2\python\lib\site-packages\extern_draco.dll' exists, draco mesh compression is available
+17:04:07 | INFO: Starting glTF 2.0 export
+17:04:07 | INFO: Extracting primitive: Label 3690-03267
+17:04:07 | INFO: Primitives created: 1
+17:04:07 | INFO: Extracting primitive: 3690-03267
+17:04:07 | INFO: Primitives created: 1
+17:04:07 | INFO: Finished glTF 2.0 export in 0.0640871524810791 s
+
+'C:\Program Files\Blender Foundation\Blender 3.2\3.2\python\lib\site-packages\extern_draco.dll' exists, draco mesh compression is available
+17:04:07 | INFO: Starting glTF 2.0 export
+17:04:07 | INFO: Extracting primitive: Label A0552604
+17:04:07 | INFO: Primitives created: 1
+17:04:07 | INFO: Extracting primitive: A0552604
+17:04:07 | INFO: Primitives created: 1
+17:04:07 | INFO: Finished glTF 2.0 export in 0.12392902374267578 s
+
+Error: File format is not supported in file 'C:\Users\e175060\SHARED_JOSEPH_BROKER\PPC_GUIDES\PPC USE CASES\ROTOR_OMS\JSON\OMS_A0561620_STEP_1.json'
+
+Blender quit
+Blender 3.2.1 (hash a2d59b2dac9e built 2022-07-06 07:45:50)
+Read prefs: C:\Users\e175060\AppData\Roaming\Blender Foundation\Blender\3.2\config\userpref.blend
+Data are loaded, start creating Blender stuff
+glTF import finished in 0.05s
+<bpy_struct, Object("A0437211") at 0x0000019923F33208>
+D:/POOL_02/ANIMATION_PARTS/A0455580.glb not found
+'C:\Program Files\Blender Foundation\Blender 3.2\3.2\python\lib\site-packages\extern_draco.dll' exists, draco mesh compression is available
+17:04:09 | INFO: Starting glTF 2.0 export
+17:04:09 | INFO: Extracting primitive: Label A0437211
+17:04:09 | INFO: Primitives created: 1
+17:04:09 | INFO: Extracting primitive: A0437211
+17:04:09 | INFO: Primitives created: 1
+17:04:09 | INFO: Finished glTF 2.0 export in 0.12070441246032715 s
+
+'C:\Program Files\Blender Foundation\Blender 3.2\3.2\python\lib\site-packages\extern_draco.dll' exists, draco mesh compression is available
+17:04:09 | INFO: Starting glTF 2.0 export
+17:04:09 | INFO: Extracting primitive: Label A0437211
+17:04:09 | INFO: Primitives created: 1
+17:04:09 | INFO: Extracting primitive: A0437211
+17:04:09 | INFO: Primitives created: 1
+17:04:09 | INFO: Finished glTF 2.0 export in 0.09296655654907227 s
+
+Error: File format is not supported in file 'C:\Users\e175060\OneDrive - Applied Materials\SHARED_JOSEPH_BROKER\PPC_GUIDES\PPC USE CASES\ROTOR_OMS\JSON\OMS_A0561620_STEP_2.json'
+
+Blender quit
+Blender 3.2.1 (hash a2d59b2dac9e built 2022-07-06 07:45:50)
+Read prefs: C:\Users\e175060\AppData\Roaming\Blender Foundation\Blender\3.2\config\userpref.blend
+Data are loaded, start creating Blender stuff
+glTF import finished in 0.01s
+<bpy_struct, Object("62743-21") at 0x000002479130F208>
+'C:\Program Files\Blender Foundation\Blender 3.2\3.2\python\lib\site-packages\extern_draco.dll' exists, draco mesh compression is available
+17:04:10 | INFO: Starting glTF 2.0 export
+17:04:10 | INFO: Extracting primitive: Label 62743-21
+17:04:10 | INFO: Primitives created: 1
+17:04:10 | INFO: Extracting primitive: 62743-21
+17:04:10 | INFO: Primitives created: 1
+17:04:10 | INFO: Finished glTF 2.0 export in 0.0459437370300293 s
+
+'C:\Program Files\Blender Foundation\Blender 3.2\3.2\python\lib\site-packages\extern_draco.dll' exists, draco mesh compression is available
+17:04:10 | INFO: Starting glTF 2.0 export
+17:04:10 | INFO: Extracting primitive: Label 62743-21
+17:04:10 | INFO: Primitives created: 1
+17:04:10 | INFO: Extracting primitive: 62743-21
+17:04:10 | INFO: Primitives created: 1
+17:04:10 | INFO: Finished glTF 2.0 export in 0.06973671913146973 s
+
+Error: File format is not supported in file 'C:\Users\SHARED_JOSEPH_BROKER\PPC_GUIDES\PPC USE CASES\ROTOR_OMS\JSON\OMS_A0561620_STEP_3.json'
+
+Blender quit
+Blender 3.2.1 (hash a2d59b2dac9e built 2022-07-06 07:45:50)
+Read prefs: C:\Users\e175060\AppData\Roaming\Blender Foundation\Blender\3.2\config\userpref.blend
+Data are loaded, start creating Blender stuff
+glTF import finished in 0.02s
+<bpy_struct, Object("HSM407A11A012") at 0x00000267049CEB08>
+Data are loaded, start creating Blender stuff
+glTF import finished in 0.01s
+<bpy_struct, Object("A0476543") at 0x00000267049CE408>
+Data are loaded, start creating Blender stuff
+glTF import finished in 0.01s
+<bpy_struct, Object("A0428848") at 0x00000267049CD608>
+'C:\Program Files\Blender Foundation\Blender 3.2\3.2\python\lib\site-packages\extern_draco.dll' exists, draco mesh compression is available
+17:04:12 | INFO: Starting glTF 2.0 export
+17:04:12 | INFO: Extracting primitive: Label HSM407A11A012
+17:04:12 | INFO: Primitives created: 1
+17:04:12 | INFO: Extracting primitive: HSM407A11A012
+17:04:12 | INFO: Primitives created: 1
+17:04:12 | INFO: Extracting primitive: Label A0476543
+17:04:12 | INFO: Primitives created: 1
+17:04:12 | INFO: Extracting primitive: A0476543
+17:04:12 | INFO: Primitives created: 1
+17:04:12 | INFO: Extracting primitive: Label A0428848
+17:04:12 | INFO: Primitives created: 1
+17:04:12 | INFO: Extracting primitive: A0428848
+17:04:12 | INFO: Primitives created: 1
+17:04:12 | INFO: Finished glTF 2.0 export in 0.10190796852111816 s
+
+'C:\Program Files\Blender Foundation\Blender 3.2\3.2\python\lib\site-packages\extern_draco.dll' exists, draco mesh compression is available
+17:04:12 | INFO: Starting glTF 2.0 export
+17:04:12 | INFO: Extracting primitive: Label HSM407A11A012
+17:04:12 | INFO: Primitives created: 1
+17:04:12 | INFO: Extracting primitive: HSM407A11A012
+17:04:12 | INFO: Primitives created: 1
+17:04:12 | INFO: Finished glTF 2.0 export in 0.05014157295227051 s
+
+'C:\Program Files\Blender Foundation\Blender 3.2\3.2\python\lib\site-packages\extern_draco.dll' exists, draco mesh compression is available
+17:04:12 | INFO: Starting glTF 2.0 export
+17:04:12 | INFO: Extracting primitive: Label A0476543
+17:04:12 | INFO: Primitives created: 1
+17:04:12 | INFO: Extracting primitive: A0476543
+17:04:12 | INFO: Primitives created: 1
+17:04:12 | INFO: Finished glTF 2.0 export in 0.05309152603149414 s
+
+'C:\Program Files\Blender Foundation\Blender 3.2\3.2\python\lib\site-packages\extern_draco.dll' exists, draco mesh compression is available
+17:04:12 | INFO: Starting glTF 2.0 export
+17:04:12 | INFO: Extracting primitive: Label A0428848
+17:04:12 | INFO: Primitives created: 1
+17:04:12 | INFO: Extracting primitive: A0428848
+17:04:12 | INFO: Primitives created: 1
+17:04:12 | INFO: Finished glTF 2.0 export in 0.05831170082092285 s
+
+Error: File format is not supported in file 'C:\Users\SHARED_JOSEPH_BROKER\PPC_GUIDES\PPC USE CASES\ROTOR_OMS\JSON\OMS_A0561620_STEP_4.json'
+
+Blender quit
+PS C:\Users\e175060\AUTO_ANIMATION V4 MULTI> ./Run_Xlsx.cmd
+
+C:\Users\AUTO_ANIMATION V4 MULTI>python xlsx_to_json.py
+Blender 3.2.1 (hash a2d59b2dac9e built 2022-07-06 07:45:50)
+Read prefs: C:\Users\e175060\AppData\Roaming\Blender Foundation\Blender\3.2\config\userpref.blend
+Data are loaded, start creating Blender stuff
+glTF import finished in 0.01s
+Data are loaded, start creating Blender stuff
+glTF import finished in 0.01s
+Data are loaded, start creating Blender stuff
+glTF import finished in 0.01s
+Error: Python: Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+  File "C:\Users\e175060\OneDrive - Applied Materials\AUTO_ANIMATION V4 MULTI\blender_process.py", line 285, in <module>
+    prime_position = prime_object.location
+NameError: name 'prime_object' is not defined
+Error: File format is not supported in file 'C:\Users\SHARED_JOSEPH_BROKER\PPC_GUIDES\PPC USE CASES\ROTOR_OMS\JSON\OMS_A0561620_STEP.json'
+
+Blender quit
+Blender 3.2.1 (hash a2d59b2dac9e built 2022-07-06 07:45:50)
+Read prefs: C:\Users\e175060\AppData\Roaming\Blender Foundation\Blender\3.2\config\userpref.blend
+'C:\Program Files\Blender Foundation\Blender 3.2\3.2\python\lib\site-packages\extern_draco.dll' exists, draco mesh compression is available
+17:05:21 | INFO: Starting glTF 2.0 export
+17:05:21 | INFO: Finished glTF 2.0 export in 0.0030024051666259766 s
+
+Error: File format is not supported in file 'C:\Users\SHARED_JOSEPH_BROKER\PPC_GUIDES\PPC USE CASES\ROTOR_OMS\JSON\OMS_A0561620_STEP_.json'
+
+Blender quit
+Blender 3.2.1 (hash a2d59b2dac9e built 2022-07-06 07:45:50)
+Read prefs: C:\Users\e175060\AppData\Roaming\Blender Foundation\Blender\3.2\config\userpref.blend
+Data are loaded, start creating Blender stuff
+glTF import finished in 0.02s
+<bpy_struct, Object("A0425436") at 0x0000026550A7EB08>
+Data are loaded, start creating Blender stuff
+glTF import finished in 0.01s
+<bpy_struct, Object("3690-03267") at 0x0000026550A7E408>
+Data are loaded, start creating Blender stuff
+glTF import finished in 0.03s
+<bpy_struct, Object("A0552604") at 0x0000026550A7DD08>
+'C:\Program Files\Blender Foundation\Blender 3.2\3.2\python\lib\site-packages\extern_draco.dll' exists, draco mesh compression is available
+17:05:23 | INFO: Starting glTF 2.0 export
+17:05:23 | INFO: Extracting primitive: Label A0425436
+17:05:23 | INFO: Primitives created: 1
+17:05:23 | INFO: Extracting primitive: A0425436
+17:05:23 | INFO: Primitives created: 1
+17:05:23 | INFO: Extracting primitive: Label 3690-03267
+17:05:23 | INFO: Primitives created: 1
+17:05:23 | INFO: Extracting primitive: 3690-03267
+17:05:23 | INFO: Primitives created: 1
+17:05:23 | INFO: Extracting primitive: Label A0552604
+17:05:23 | INFO: Primitives created: 1
+17:05:23 | INFO: Extracting primitive: A0552604
+17:05:23 | INFO: Primitives created: 1
+17:05:23 | INFO: Finished glTF 2.0 export in 0.1976757049560547 s
+
+'C:\Program Files\Blender Foundation\Blender 3.2\3.2\python\lib\site-packages\extern_draco.dll' exists, draco mesh compression is available
+17:05:23 | INFO: Starting glTF 2.0 export
+17:05:23 | INFO: Extracting primitive: Label A0425436
+17:05:23 | INFO: Primitives created: 1
+17:05:23 | INFO: Extracting primitive: A0425436
+17:05:23 | INFO: Primitives created: 1
+17:05:23 | INFO: Finished glTF 2.0 export in 0.06573200225830078 s
+
+'C:\Program Files\Blender Foundation\Blender 3.2\3.2\python\lib\site-packages\extern_draco.dll' exists, draco mesh compression is available
+17:05:23 | INFO: Starting glTF 2.0 export
+17:05:23 | INFO: Extracting primitive: Label 3690-03267
+17:05:23 | INFO: Primitives created: 1
+17:05:23 | INFO: Extracting primitive: 3690-03267
+17:05:23 | INFO: Primitives created: 1
+17:05:23 | INFO: Finished glTF 2.0 export in 0.07817244529724121 s
+
+'C:\Program Files\Blender Foundation\Blender 3.2\3.2\python\lib\site-packages\extern_draco.dll' exists, draco mesh compression is available
+17:05:23 | INFO: Starting glTF 2.0 export
+17:05:23 | INFO: Extracting primitive: Label A0552604
+17:05:23 | INFO: Primitives created: 1
+17:05:23 | INFO: Extracting primitive: A0552604
+17:05:23 | INFO: Primitives created: 1
+17:05:23 | INFO: Finished glTF 2.0 export in 0.09600496292114258 s
+
+Error: File format is not supported in file 'C:\Users\SHARED_JOSEPH_BROKER\PPC_GUIDES\PPC USE CASES\ROTOR_OMS\JSON\OMS_A0561620_STEP_1.json'
+
+Blender quit
+Blender 3.2.1 (hash a2d59b2dac9e built 2022-07-06 07:45:50)
+Read prefs: C:\Users\e175060\AppData\Roaming\Blender Foundation\Blender\3.2\config\userpref.blend
+Data are loaded, start creating Blender stuff
+glTF import finished in 0.04s
+<bpy_struct, Object("A0437211") at 0x0000020AD9D93208>
+D:/POOL_02/ANIMATION_PARTS/A0455580.glb not found
+'C:\Program Files\Blender Foundation\Blender 3.2\3.2\python\lib\site-packages\extern_draco.dll' exists, draco mesh compression is available
+17:05:25 | INFO: Starting glTF 2.0 export
+17:05:25 | INFO: Extracting primitive: Label A0437211
+17:05:25 | INFO: Primitives created: 1
+17:05:25 | INFO: Extracting primitive: A0437211
+17:05:25 | INFO: Primitives created: 1
+17:05:25 | INFO: Finished glTF 2.0 export in 0.1007688045501709 s
+
+'C:\Program Files\Blender Foundation\Blender 3.2\3.2\python\lib\site-packages\extern_draco.dll' exists, draco mesh compression is available
+17:05:25 | INFO: Starting glTF 2.0 export
+17:05:25 | INFO: Extracting primitive: Label A0437211
+17:05:25 | INFO: Primitives created: 1
+17:05:25 | INFO: Extracting primitive: A0437211
+17:05:25 | INFO: Primitives created: 1
+17:05:25 | INFO: Finished glTF 2.0 export in 0.08402347564697266 s
+
+Error: File format is not supported in file 'C:\Users\SHARED_JOSEPH_BROKER\PPC_GUIDES\PPC USE CASES\ROTOR_OMS\JSON\OMS_A0561620_STEP_2.json'
+
+Blender quit
+Blender 3.2.1 (hash a2d59b2dac9e built 2022-07-06 07:45:50)
+Read prefs: C:\Users\e175060\AppData\Roaming\Blender Foundation\Blender\3.2\config\userpref.blend
+Data are loaded, start creating Blender stuff
+glTF import finished in 0.01s
+<bpy_struct, Object("62743-21") at 0x0000017A0396F208>
+'C:\Program Files\Blender Foundation\Blender 3.2\3.2\python\lib\site-packages\extern_draco.dll' exists, draco mesh compression is available
+17:05:27 | INFO: Starting glTF 2.0 export
+17:05:27 | INFO: Extracting primitive: Label 62743-21
+17:05:27 | INFO: Primitives created: 1
+17:05:27 | INFO: Extracting primitive: 62743-21
+17:05:27 | INFO: Primitives created: 1
+17:05:27 | INFO: Finished glTF 2.0 export in 0.04972577095031738 s
+
+'C:\Program Files\Blender Foundation\Blender 3.2\3.2\python\lib\site-packages\extern_draco.dll' exists, draco mesh compression is available
+17:05:27 | INFO: Starting glTF 2.0 export
+17:05:27 | INFO: Extracting primitive: Label 62743-21
+17:05:27 | INFO: Primitives created: 1
+17:05:27 | INFO: Extracting primitive: 62743-21
+17:05:27 | INFO: Primitives created: 1
+17:05:27 | INFO: Finished glTF 2.0 export in 0.04090428352355957 s
+
+Error: File format is not supported in file 'C:\Users\SHARED_JOSEPH_BROKER\PPC_GUIDES\PPC USE CASES\ROTOR_OMS\JSON\OMS_A0561620_STEP_3.json'
+
+Blender quit
+Blender 3.2.1 (hash a2d59b2dac9e built 2022-07-06 07:45:50)
+Read prefs: C:\Users\e175060\AppData\Roaming\Blender Foundation\Blender\3.2\config\userpref.blend
+Data are loaded, start creating Blender stuff
+glTF import finished in 0.01s
+<bpy_struct, Object("HSM407A11A012") at 0x00000256604DEB08>
+Data are loaded, start creating Blender stuff
+glTF import finished in 0.01s
+<bpy_struct, Object("A0476543") at 0x00000256604DE408>
+Data are loaded, start creating Blender stuff
+glTF import finished in 0.01s
+<bpy_struct, Object("A0428848") at 0x00000256604DD608>
+'C:\Program Files\Blender Foundation\Blender 3.2\3.2\python\lib\site-packages\extern_draco.dll' exists, draco mesh compression is available
+17:05:29 | INFO: Starting glTF 2.0 export
+17:05:29 | INFO: Extracting primitive: Label HSM407A11A012
+17:05:29 | INFO: Primitives created: 1
+17:05:29 | INFO: Extracting primitive: HSM407A11A012
+17:05:29 | INFO: Primitives created: 1
+17:05:29 | INFO: Extracting primitive: Label A0476543
+17:05:29 | INFO: Primitives created: 1
+17:05:29 | INFO: Extracting primitive: A0476543
+17:05:29 | INFO: Primitives created: 1
+17:05:29 | INFO: Extracting primitive: Label A0428848
+17:05:29 | INFO: Primitives created: 1
+17:05:29 | INFO: Extracting primitive: A0428848
+17:05:29 | INFO: Primitives created: 1
+17:05:29 | INFO: Finished glTF 2.0 export in 0.13533592224121094 s
+
+'C:\Program Files\Blender Foundation\Blender 3.2\3.2\python\lib\site-packages\extern_draco.dll' exists, draco mesh compression is available
+17:05:29 | INFO: Starting glTF 2.0 export
+17:05:29 | INFO: Extracting primitive: Label HSM407A11A012
+17:05:29 | INFO: Primitives created: 1
+17:05:29 | INFO: Extracting primitive: HSM407A11A012
+17:05:29 | INFO: Primitives created: 1
+17:05:29 | INFO: Finished glTF 2.0 export in 0.062497615814208984 s
+
+'C:\Program Files\Blender Foundation\Blender 3.2\3.2\python\lib\site-packages\extern_draco.dll' exists, draco mesh compression is available
+17:05:29 | INFO: Starting glTF 2.0 export
+17:05:29 | INFO: Extracting primitive: Label A0476543
+17:05:29 | INFO: Primitives created: 1
+17:05:29 | INFO: Extracting primitive: A0476543
+17:05:29 | INFO: Primitives created: 1
+17:05:29 | INFO: Finished glTF 2.0 export in 0.08548188209533691 s
+
+'C:\Program Files\Blender Foundation\Blender 3.2\3.2\python\lib\site-packages\extern_draco.dll' exists, draco mesh compression is available
+17:05:29 | INFO: Starting glTF 2.0 export
+17:05:29 | INFO: Extracting primitive: Label A0428848
+17:05:29 | INFO: Primitives created: 1
+17:05:29 | INFO: Extracting primitive: A0428848
+17:05:29 | INFO: Primitives created: 1
+17:05:29 | INFO: Finished glTF 2.0 export in 0.07185053825378418 s
+
+Error: File format is not supported in file 'C:\Users\SHARED_JOSEPH_BROKER\PPC_GUIDES\PPC USE CASES\ROTOR_OMS\JSON\OMS_A0561620_STEP_4.json'
+
+Blender quit
